@@ -1,0 +1,1 @@
+only things to do create a n0 item on nextion editor that's it and upload to nextion screen with sd
